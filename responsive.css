@@ -1,0 +1,11 @@
+@media only screen and (max-width: 900px){
+    .logo-area ul li {
+    list-style: none;
+    display: block;
+        width: 100%;
+   
+    }
+    .logo-area ul li img {
+        width: 100%;
+    }
+}
